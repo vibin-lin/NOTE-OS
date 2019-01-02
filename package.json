@@ -1,0 +1,23 @@
+{
+  "name": "note-os",
+  "version": "1.0.0",
+  "description": "自考本科操作系统笔记",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibin-lin/NOTE-OS.git"
+  },
+  "author": "vibin-lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibin-lin/NOTE-OS/issues"
+  },
+  "homepage": "https://github.com/vibin-lin/NOTE-OS#readme"
+}
